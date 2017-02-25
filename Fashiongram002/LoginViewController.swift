@@ -18,7 +18,7 @@ class LoginViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view. add a little
+        // Do any additional setup after loading the view. add a little comment.
     }
 
     @IBAction func loginPressed(_ sender: Any) {
